@@ -1,0 +1,34 @@
+h1{
+    color: crimson;
+    background-color: bisque;
+    font-size: 150%;
+    font-variant: small-caps;
+}
+
+header{
+    background-color: rgb(229, 231, 95);
+    text-align: center;
+}
+
+nav{
+    font-variant: small-caps;
+    font-size: small;
+    font-family: Arial, "Times New Roman", serif;
+}
+
+h2{
+    color: rgb(168, 21, 168);
+    background-color: rgb(135, 189, 189);
+}
+
+details{
+    font-style: italic;
+}
+
+summary{
+    font-style: normal;
+}
+
+footer{
+    background-color: rgb(229, 231, 95);
+}

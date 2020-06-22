@@ -1,0 +1,60 @@
+h1{
+    color:rgb(255, 255, 255);    
+    font-size: 150%;
+    font-variant: normal;
+}
+header{
+    background-color: rgb(54, 153, 219);
+    text-align: center;
+    padding-bottom: 10px;
+}
+nav{
+    font-variant: small-caps;
+    font-size: larger;
+    font-family: Arial, "Times New Roman", serif;
+}
+nav a{
+    display: inline-block;
+    background-color: rgb(168, 161, 226);
+    width: 23%;
+}
+h2{
+    color: rgb(168, 21, 168);
+    background-color: rgb(135, 189, 189);
+}
+details{
+    font-style: italic;
+}
+summary{
+    font-style: normal;
+}
+footer{
+    background-color: rgb(229, 231, 95);
+    clear: both;
+}
+.half{
+    display: inline-block;
+    width: 45%;
+    float:left;
+    margin-right: 3%; 
+}
+.whole{
+    clear: both;
+}
+body{
+    margin: 20px;
+    font-size: 150%;
+    background-color: rgb(109, 101, 101);
+    padding: .5%;
+    margin: 1%;
+}
+img{
+    width: 125px;
+}
+header, footer{
+    background-color: rgb(1, 226, 151);
+    background: -moz-linear-gradient(top, rgb(1, 226, 151));
+    background: -webkit-linear-gradient(rgb(1, 226, 151));
+    background: -o-linear-gradient(rgb(1, 226, 151) 0%), rgb(214, 153, 153);
+    background: linear-gradient(rgb(1, 226, 151) 0%, whitesmoke);
+}

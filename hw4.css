@@ -1,3 +1,64 @@
+/* week 2 assignment */
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    text-align: center;
+}
+header{
+    background-image: url(../images/flywheel.jpg);
+    padding: 15px;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    position: relative;
+    height: 150px;
+}
+nav a{
+    background-color: rgba(212, 211, 211, 0.623);
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    width: 10%;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 11%;
+}
+h2{
+    color: rgb(16, 0, 104);
+    text-transform: normal;
+    font-weight: bolder;
+}
+.active{
+    background-color: rgb(233, 235, 236);
+}
+.left{
+    display:block;
+    width: 12%;
+    height: 450px;
+    float: left;
+    background-color: rgb(161, 158, 8);
+    padding: 10px;  
+}
+.left img{
+    width: 75%;
+    display: block;
+    float: left;
+    margin: 15px;
+    border: solid;
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+}
+.right{
+    display: inline-block;
+    width: 70%;
+    padding: 5px;   
+}
+body{
+    background-color: white;
+    margin: 20px;
+    padding: 5px;
+}
 
 /* WEEK 4 ASSIGNMENT */
 table{

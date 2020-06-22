@@ -1,0 +1,31 @@
+
+/* WEEK 4 ASSIGNMENT */
+table{
+    height: 150%;
+    width: 70%;    
+    /* position: relative; */
+    border-left: 70px solid white;
+}
+th{
+    background-color: rgb(112, 155, 49);
+    text-align: center; 
+    color: rgb(243, 242, 240);  
+    padding: 7px; 
+    border-radius:4px 4px 0 0;
+    border-bottom: solid yellowgreen;
+}
+tr,td{
+    background-color: rgb(190, 197, 180);
+    text-align: center;
+    opacity: 0.8;
+    padding: 5px;
+}
+tr td:nth-child(1){
+    text-align: left;
+}
+tr th:nth-child(1){
+    text-align: left;
+}
+tr:hover{
+    opacity: 0.6;
+}
